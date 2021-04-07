@@ -1,1 +1,2 @@
 # NewsSearchy
+http://newsearch.tools/
